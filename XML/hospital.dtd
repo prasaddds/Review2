@@ -1,0 +1,8 @@
+<!-- hospital.dtd -->
+<!ELEMENT hospital (patient+)>
+<!ELEMENT patient (id, name, age, gender, diagnosis)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT gender (#PCDATA)>
+<!ELEMENT diagnosis (#PCDATA)>

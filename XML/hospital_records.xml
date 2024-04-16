@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hospital SYSTEM "hospital.dtd">
+<hospital>
+    <patient>
+        <id>1</id>
+        <name>Krishna</name>
+        <age>25</age>
+        <gender>Male</gender>
+        <diagnosis>Cancer</diagnosis>
+    </patient>
+    <patient>
+        <id>2</id>
+        <name>Sanjay</name>
+        <age>25</age>
+        <gender>Male</gender>
+        <diagnosis>Broken leg</diagnosis>
+    </patient>
+    <patient>
+        <id>3</id>
+        <name>Siraj</name>
+        <age>25</age>
+        <gender>Male</gender>
+        <diagnosis>Heart disease</diagnosis>
+    </patient>
+    <patient>
+        <id>4</id>
+        <name>Balaji</name>
+        <age>25</age>
+        <gender>Male</gender>
+        <diagnosis>Hadavudi</diagnosis>
+    </patient>
+    <patient>
+        <id>5</id>
+        <name>Heet</name>
+        <age>25</age>
+        <gender>Male</gender>
+        <diagnosis>Appendicitis</diagnosis>
+    </patient>
+    <patient>
+        <id>6</id>
+        <name>Hemanth</name>
+        <age>25</age>
+        <gender>Male</gender>
+        <diagnosis>Arthritis</diagnosis>
+    </patient>
+    <patient>
+        <id>7</id>
+        <name>Sreekar</name>
+        <age>25</age>
+        <gender>Male</gender>
+        <diagnosis>Asthma</diagnosis>
+    </patient>
+    <patient>
+        <id>8</id>
+        <name>Deepak</name>
+        <age>25</age>
+        <gender>Male</gender>
+        <diagnosis>Diabetes</diagnosis>
+    </patient>
+    <patient>
+        <id>9</id>
+        <name>Sravan</name>
+        <age>25</age>
+        <gender>Male</gender>
+        <diagnosis>High Blood Pressure</diagnosis>
+    </patient>
+    <patient>
+        <id>10</id>
+        <name>Balayya</name>
+        <age>25</age>
+        <gender>Male</gender>
+        <diagnosis>Allergic Rhinitis</diagnosis>
+    </patient>
+</hospital>

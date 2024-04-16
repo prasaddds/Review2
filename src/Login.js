@@ -11,7 +11,7 @@ const Login = ({ setIsLoggedIn }) => {
     e.preventDefault();
     // Simulate successful login every time
     setIsLoggedIn(true);
-    navigate('/allocated-work'); // Navigate to Allocated Work page upon successful login
+    navigate('/'); // Navigate to Allocated Work page upon successful login
   };
 
   return (
